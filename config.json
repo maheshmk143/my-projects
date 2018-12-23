@@ -1,0 +1,30 @@
+{
+
+"params":
+{
+    "local_server":"True",
+    "local_uri":"mysql://root:@localhost/codelovers",
+    "proud_uri":"mysql://root:@localhost/codelovers",
+    "fb_url":"https://www.facebook.com",
+    "blog_name":"Code_lovers",
+    "sub_tit":"Welcome to Code_lovers",
+    "user_mail":"mahesharya61@gmail.com",
+    "password":"password",
+    "about_text":"hi i am mahesh this is my first blog site...welocme here",
+    "no_of_post":5,
+    "login_image":"login.svg",
+    "admin":"mahesh",
+    "admin_password":"mahesh"
+
+
+
+
+
+
+
+
+}
+
+
+
+}
